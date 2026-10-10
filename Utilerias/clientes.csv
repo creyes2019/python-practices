@@ -1,0 +1,6 @@
+id,nombre,email,edad,ciudad,fecha_registro,saldo
+1,Ana López,ana.lopez@example.com,28,Guadalajara,2025-01-15,1500.50
+2,Carlos Pérez,carlos.perez@example.com,35,Monterrey,2025-02-03,320.00
+3,María García,maria.garcia@example.com,42,CDMX,2025-03-21,9870.25
+4,Jorge Ramírez,jorge.ramirez@example.com,23,Puebla,2025-04-10,0.00
+5,Lucía Torres,lucia.torres@example.com,31,Querétaro,2025-05-27,2450.75
